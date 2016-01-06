@@ -25,6 +25,7 @@ SECRET_KEY = 'n#eo+t2o*@6s5l0c=#9k!ybe_64*2_mzv(&pmn^jer@m&f+2i)'
 # SECURITY WARNING: don't run with debug turned on in production!
 if 'LOCALHOST' in os.environ:
     DEBUG = True
+DEBUG = True
 
 ALLOWED_HOSTS = []
 
@@ -41,6 +42,9 @@ INSTALLED_APPS = [
 
     #Custom Apps
     'main',
+
+    #Third-party Libraries
+    'rest_framework',
 ]
 
 MIDDLEWARE_CLASSES = [
@@ -123,3 +127,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.9/howto/static-files/
 
 STATIC_URL = '/static/'
+
+# Custom Settings
+
+
