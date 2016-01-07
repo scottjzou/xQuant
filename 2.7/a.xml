@@ -1,0 +1,52 @@
+<dict size="8">
+<key>Group</key>
+<value><dict size="3">
+<key>CS</key>
+<value><literal>DeviceRGB</literal></value>
+<key>S</key>
+<value><literal>Transparency</literal></value>
+<key>Type</key>
+<value><literal>Group</literal></value>
+</dict></value>
+<key>Parent</key>
+<value><ref id="2" /></value>
+<key>MediaBox</key>
+<value><list size="4">
+<number>0</number>
+<number>0</number>
+<number>595.32</number>
+<number>841.92</number>
+</list></value>
+<key>Tabs</key>
+<value><literal>S</literal></value>
+<key>StructParents</key>
+<value><number>36</number></value>
+<key>Contents</key>
+<value><ref id="249" /></value>
+<key>Type</key>
+<value><literal>Page</literal></value>
+<key>Resources</key>
+<value><dict size="2">
+<key>Font</key>
+<value><dict size="5">
+<key>F10</key>
+<value><ref id="223" /></value>
+<key>F1</key>
+<value><ref id="5" /></value>
+<key>F2</key>
+<value><ref id="7" /></value>
+<key>F5</key>
+<value><ref id="31" /></value>
+<key>F7</key>
+<value><ref id="204" /></value>
+</dict></value>
+<key>ProcSet</key>
+<value><list size="5">
+<literal>PDF</literal>
+<literal>Text</literal>
+<literal>ImageB</literal>
+<literal>ImageC</literal>
+<literal>ImageI</literal>
+</list></value>
+</dict></value>
+</dict>
